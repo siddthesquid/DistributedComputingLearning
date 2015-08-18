@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.twitter.common:util-sampler:0.0.49">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/twitter/common/util-sampler/0.0.49/util-sampler-0.0.49.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/twitter/common/util-sampler/0.0.49/util-sampler-0.0.49-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/twitter/common/util-sampler/0.0.49/util-sampler-0.0.49-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

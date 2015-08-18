@@ -1,0 +1,11 @@
+this is a random word count program and in order
+to build a word count a program i need to make
+some sort of a test file that has various different
+lines with various different words but i also need
+to make sure that i include words that are repeated
+because why not we should expect words that appear
+twice as much on here as opposed to other words to
+have a word count twice as much as those other words
+i am going to stop writing more things after i get
+to line ten oh this is already line ten so i am going
+to stop typing whoops i went on to line eleven
